@@ -1,0 +1,13 @@
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\bin\Debug\netcoreapp3.1\02_WinForms.exe
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\bin\Debug\netcoreapp3.1\02_WinForms.deps.json
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\bin\Debug\netcoreapp3.1\02_WinForms.runtimeconfig.json
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\bin\Debug\netcoreapp3.1\02_WinForms.runtimeconfig.dev.json
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\bin\Debug\netcoreapp3.1\02_WinForms.dll
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\bin\Debug\netcoreapp3.1\02_WinForms.pdb
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.csprojAssemblyReference.cache
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.AssemblyInfoInputs.cache
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.AssemblyInfo.cs
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.csproj.CoreCompileInputs.cache
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.dll
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.pdb
+D:\PROJETS\devellopement\IFOCOP\Cdieze\02_WinForms\obj\Debug\netcoreapp3.1\02_WinForms.genruntimeconfig.cache
